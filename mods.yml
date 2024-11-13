@@ -267,27 +267,6 @@
   enabled: true
   icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\Default\BepInEx\plugins\SarcenNexusMods-FarmGrid\icon.png
 - manifestVersion: 1
-  name: aedenthorn_nexus-AutoFeed
-  authorName: aedenthorn_nexus
-  websiteUrl: https://thunderstore.io/c/valheim/p/aedenthorn_nexus/AutoFeed/
-  displayName: AutoFeed
-  description: "Lets tameable animals eat from nearby containers. Creator: aedenthorn"
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  installedAtTime: 1731531754361
-  loaders: []
-  dependencies: []
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 0
-    minor: 7
-    patch: 0
-  enabled: true
-  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\Default\BepInEx\plugins\aedenthorn_nexus-AutoFeed\icon.png
-- manifestVersion: 1
   name: Azumatt-AzuHoverStats
   authorName: Azumatt
   websiteUrl: https://thunderstore.io/c/valheim/p/Azumatt/AzuHoverStats/
@@ -334,29 +313,6 @@
   enabled: true
   icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\Default\BepInEx\plugins\GemHunter1-FastTeleport\icon.png
 - manifestVersion: 1
-  name: aedenthorn_mods-AutoFuel
-  authorName: aedenthorn_mods
-  websiteUrl: https://thunderstore.io/c/valheim/p/aedenthorn_mods/AutoFuel/
-  displayName: AutoFuel
-  description: Automatically pulls fuel and ore for kilns and smelters from the
-    ground and nearby containers.
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  installedAtTime: 1731531790540
-  loaders: []
-  dependencies:
-    - denikson-BepInExPack_Valheim-5.4.1901
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 1
-    minor: 2
-    patch: 0
-  enabled: true
-  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\Default\BepInEx\plugins\aedenthorn_mods-AutoFuel\icon.png
-- manifestVersion: 1
   name: ComfyMods-ComfyAutoRepair
   authorName: ComfyMods
   websiteUrl: https://thunderstore.io/c/valheim/p/ComfyMods/ComfyAutoRepair/
@@ -377,4 +333,4 @@
     minor: 0
     patch: 0
   enabled: true
-  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\cache\ComfyMods-ComfyAutoRepair\1.0.0\icon.png
+  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\Default\BepInEx\plugins\ComfyMods-ComfyAutoRepair\icon.png
