@@ -1,0 +1,358 @@
+- manifestVersion: 1
+  name: coemt-UnarmedTweaks
+  authorName: coemt
+  websiteUrl: https://thunderstore.io/c/valheim/p/coemt/UnarmedTweaks/
+  displayName: UnarmedTweaks
+  description: Config options for a little more control over your fists
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1731531049580
+  loaders: []
+  dependencies: []
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 0
+    patch: 3
+  enabled: true
+  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\Default\BepInEx\plugins\coemt-UnarmedTweaks\icon.png
+- manifestVersion: 1
+  name: Revel-StaminaSense
+  authorName: Revel
+  websiteUrl: https://thunderstore.io/c/valheim/p/Revel/StaminaSense/
+  displayName: StaminaSense
+  description: No stamina consumption when no enemies sense you/are alerted.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1731531078391
+  loaders: []
+  dependencies: []
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 0
+  enabled: true
+  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\Default\BepInEx\plugins\Revel-StaminaSense\icon.png
+- manifestVersion: 1
+  name: denikson-BepInExPack_Valheim
+  authorName: denikson
+  websiteUrl: https://thunderstore.io/c/valheim/p/denikson/BepInExPack_Valheim/
+  displayName: BepInExPack_Valheim
+  description: BepInEx pack for Valheim. Preconfigured and includes unstripped Unity DLLs.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1731531349225
+  loaders: []
+  dependencies: []
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 5
+    minor: 4
+    patch: 2202
+  enabled: true
+  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\cache\denikson-BepInExPack_Valheim\5.4.2202\icon.png
+- manifestVersion: 1
+  name: ishid4-BetterArchery
+  authorName: ishid4
+  websiteUrl: https://thunderstore.io/c/valheim/p/ishid4/BetterArchery/
+  displayName: BetterArchery
+  description: Adds many features and changes to bow gameplay.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1731531349289
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.1501
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 9
+    patch: 8
+  enabled: true
+  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\Default\BepInEx\plugins\ishid4-BetterArchery\icon.png
+- manifestVersion: 1
+  name: ValheimModding-Jotunn
+  authorName: ValheimModding
+  websiteUrl: https://thunderstore.io/c/valheim/p/ValheimModding/Jotunn/
+  displayName: Jotunn
+  description: Jötunn (/ˈjɔːtʊn/, 'giant'), the Valheim Library was created with
+    the goal of making the lives of mod developers easier. It enables you to
+    create mods for Valheim using an abstracted API so you can focus on the
+    actual content creation.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1731531503624
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.2202
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 2
+    minor: 21
+    patch: 3
+  enabled: true
+  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\Default\BepInEx\plugins\ValheimModding-Jotunn\icon.png
+- manifestVersion: 1
+  name: MSchmoecker-MultiUserChest
+  authorName: MSchmoecker
+  websiteUrl: https://thunderstore.io/c/valheim/p/MSchmoecker/MultiUserChest/
+  displayName: MultiUserChest
+  description: Allows multiple players to interact with the same chest at the same time
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1731531503701
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.2202
+    - ValheimModding-Jotunn-2.20.3
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 6
+    patch: 0
+  enabled: true
+  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\Default\BepInEx\plugins\MSchmoecker-MultiUserChest\icon.png
+- manifestVersion: 1
+  name: castix-FloatingItems
+  authorName: castix
+  websiteUrl: https://thunderstore.io/c/valheim/p/castix/FloatingItems/
+  displayName: FloatingItems
+  description: This simple mod makes all items float on the water surface.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1731531529502
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.600
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 0
+  enabled: true
+  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\Default\BepInEx\plugins\castix-FloatingItems\icon.png
+- manifestVersion: 1
+  name: nearbear-BiggerBoatMapExploreRadius
+  authorName: nearbear
+  websiteUrl: https://thunderstore.io/c/valheim/p/nearbear/BiggerBoatMapExploreRadius/
+  displayName: BiggerBoatMapExploreRadius
+  description: This is a Bepinex mod for Valheim that increases the exploration
+    radius while in a boat.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1731531663995
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.800
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 3
+  enabled: true
+  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\Default\BepInEx\plugins\nearbear-BiggerBoatMapExploreRadius\icon.png
+- manifestVersion: 1
+  name: MaGic-Quick_Deposit
+  authorName: MaGic
+  websiteUrl: https://thunderstore.io/c/valheim/p/MaGic/Quick_Deposit/
+  displayName: Quick_Deposit
+  description: Adds a button for depositing items to a container.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1731531692985
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.601
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 1
+  enabled: true
+  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\Default\BepInEx\plugins\MaGic-Quick_Deposit\icon.png
+- manifestVersion: 1
+  name: Mydayyy-ServerSideMap
+  authorName: Mydayyy
+  websiteUrl: https://thunderstore.io/c/valheim/p/Mydayyy/ServerSideMap/
+  displayName: ServerSideMap
+  description: Shares the Map between all players, synchronizes map when connecting
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1731531700261
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.2200
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 3
+    patch: 11
+  enabled: true
+  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\Default\BepInEx\plugins\Mydayyy-ServerSideMap\icon.png
+- manifestVersion: 1
+  name: Smoothbrain-SmoothSave
+  authorName: Smoothbrain
+  websiteUrl: https://thunderstore.io/c/valheim/p/Smoothbrain/SmoothSave/
+  displayName: SmoothSave
+  description: Removes the freeze that happens if the world is being saved.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1731531732352
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.2202
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 5
+  enabled: true
+  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\Default\BepInEx\plugins\Smoothbrain-SmoothSave\icon.png
+- manifestVersion: 1
+  name: SarcenNexusMods-FarmGrid
+  authorName: SarcenNexusMods
+  websiteUrl: https://thunderstore.io/c/valheim/p/SarcenNexusMods/FarmGrid/
+  displayName: FarmGrid
+  description: Allows for all plants planted with the cultivator to automatically
+    be snapped and placed into a grid in which they will have enough space to
+    grow.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1731531741954
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.800
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 5
+    patch: 0
+  enabled: true
+  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\Default\BepInEx\plugins\SarcenNexusMods-FarmGrid\icon.png
+- manifestVersion: 1
+  name: aedenthorn_nexus-AutoFeed
+  authorName: aedenthorn_nexus
+  websiteUrl: https://thunderstore.io/c/valheim/p/aedenthorn_nexus/AutoFeed/
+  displayName: AutoFeed
+  description: "Lets tameable animals eat from nearby containers. Creator: aedenthorn"
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1731531754361
+  loaders: []
+  dependencies: []
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 7
+    patch: 0
+  enabled: true
+  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\Default\BepInEx\plugins\aedenthorn_nexus-AutoFeed\icon.png
+- manifestVersion: 1
+  name: Azumatt-AzuHoverStats
+  authorName: Azumatt
+  websiteUrl: https://thunderstore.io/c/valheim/p/Azumatt/AzuHoverStats/
+  displayName: AzuHoverStats
+  description: It shows information on things when you hover over them. What else
+    is there to say?
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1731531759127
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.2202
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 8
+  enabled: true
+  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\Default\BepInEx\plugins\Azumatt-AzuHoverStats\icon.png
+- manifestVersion: 1
+  name: GemHunter1-FastTeleport
+  authorName: GemHunter1
+  websiteUrl: https://thunderstore.io/c/valheim/p/GemHunter1/FastTeleport/
+  displayName: FastTeleport
+  description: Shortens teleportation loading time to save those precious 8
+    seconds of our lives. Also makes entering dungeons instant.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1731531768489
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.1900
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 0
+  enabled: true
+  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\Default\BepInEx\plugins\GemHunter1-FastTeleport\icon.png
+- manifestVersion: 1
+  name: aedenthorn_mods-AutoFuel
+  authorName: aedenthorn_mods
+  websiteUrl: https://thunderstore.io/c/valheim/p/aedenthorn_mods/AutoFuel/
+  displayName: AutoFuel
+  description: Automatically pulls fuel and ore for kilns and smelters from the
+    ground and nearby containers.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1731531790540
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.1901
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 2
+    patch: 0
+  enabled: true
+  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\Default\BepInEx\plugins\aedenthorn_mods-AutoFuel\icon.png

@@ -1,0 +1,9 @@
+
+*.dll
+/BepInEx/core
+/BepInEx/plugins
+/doorstop_libs
+start_game_bepinex.sh
+start_server_bepinex.sh
+changelog.txt
+doorstop_config.ini
