@@ -18,7 +18,7 @@
     minor: 0
     patch: 3
   enabled: true
-  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\_profile_update\BepInEx\plugins\coemt-UnarmedTweaks\icon.png
+  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\cache\coemt-UnarmedTweaks\0.0.3\icon.png
 - manifestVersion: 1
   name: Revel-StaminaSense
   authorName: Revel
@@ -39,7 +39,7 @@
     minor: 0
     patch: 0
   enabled: true
-  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\_profile_update\BepInEx\plugins\Revel-StaminaSense\icon.png
+  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\cache\Revel-StaminaSense\1.0.0\icon.png
 - manifestVersion: 1
   name: denikson-BepInExPack_Valheim
   authorName: denikson
@@ -82,7 +82,7 @@
     minor: 9
     patch: 8
   enabled: true
-  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\_profile_update\BepInEx\plugins\ishid4-BetterArchery\icon.png
+  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\cache\ishid4-BetterArchery\1.9.8\icon.png
 - manifestVersion: 1
   name: ValheimModding-Jotunn
   authorName: ValheimModding
@@ -107,7 +107,7 @@
     minor: 21
     patch: 3
   enabled: true
-  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\_profile_update\BepInEx\plugins\ValheimModding-Jotunn\icon.png
+  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\cache\ValheimModding-Jotunn\2.21.3\icon.png
 - manifestVersion: 1
   name: MSchmoecker-MultiUserChest
   authorName: MSchmoecker
@@ -130,7 +130,7 @@
     minor: 6
     patch: 0
   enabled: true
-  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\_profile_update\BepInEx\plugins\MSchmoecker-MultiUserChest\icon.png
+  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\cache\MSchmoecker-MultiUserChest\0.6.0\icon.png
 - manifestVersion: 1
   name: castix-FloatingItems
   authorName: castix
@@ -152,7 +152,7 @@
     minor: 0
     patch: 0
   enabled: true
-  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\_profile_update\BepInEx\plugins\castix-FloatingItems\icon.png
+  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\cache\castix-FloatingItems\1.0.0\icon.png
 - manifestVersion: 1
   name: nearbear-BiggerBoatMapExploreRadius
   authorName: nearbear
@@ -175,7 +175,7 @@
     minor: 0
     patch: 3
   enabled: true
-  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\_profile_update\BepInEx\plugins\nearbear-BiggerBoatMapExploreRadius\icon.png
+  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\cache\nearbear-BiggerBoatMapExploreRadius\1.0.3\icon.png
 - manifestVersion: 1
   name: MaGic-Quick_Deposit
   authorName: MaGic
@@ -197,7 +197,7 @@
     minor: 0
     patch: 1
   enabled: true
-  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\_profile_update\BepInEx\plugins\MaGic-Quick_Deposit\icon.png
+  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\cache\MaGic-Quick_Deposit\1.0.1\icon.png
 - manifestVersion: 1
   name: Mydayyy-ServerSideMap
   authorName: Mydayyy
@@ -219,7 +219,7 @@
     minor: 3
     patch: 11
   enabled: true
-  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\_profile_update\BepInEx\plugins\Mydayyy-ServerSideMap\icon.png
+  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\cache\Mydayyy-ServerSideMap\1.3.11\icon.png
 - manifestVersion: 1
   name: Smoothbrain-SmoothSave
   authorName: Smoothbrain
@@ -241,7 +241,7 @@
     minor: 0
     patch: 5
   enabled: true
-  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\_profile_update\BepInEx\plugins\Smoothbrain-SmoothSave\icon.png
+  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\cache\Smoothbrain-SmoothSave\1.0.5\icon.png
 - manifestVersion: 1
   name: SarcenNexusMods-FarmGrid
   authorName: SarcenNexusMods
@@ -265,7 +265,7 @@
     minor: 5
     patch: 0
   enabled: true
-  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\_profile_update\BepInEx\plugins\SarcenNexusMods-FarmGrid\icon.png
+  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\cache\SarcenNexusMods-FarmGrid\0.5.0\icon.png
 - manifestVersion: 1
   name: Azumatt-AzuHoverStats
   authorName: Azumatt
@@ -288,7 +288,7 @@
     minor: 1
     patch: 8
   enabled: true
-  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\_profile_update\BepInEx\plugins\Azumatt-AzuHoverStats\icon.png
+  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\cache\Azumatt-AzuHoverStats\1.1.8\icon.png
 - manifestVersion: 1
   name: GemHunter1-FastTeleport
   authorName: GemHunter1
@@ -311,7 +311,7 @@
     minor: 1
     patch: 0
   enabled: true
-  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\_profile_update\BepInEx\plugins\GemHunter1-FastTeleport\icon.png
+  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\cache\GemHunter1-FastTeleport\1.1.0\icon.png
 - manifestVersion: 1
   name: ComfyMods-ComfyAutoRepair
   authorName: ComfyMods
@@ -334,3 +334,579 @@
     patch: 0
   enabled: true
   icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\cache\ComfyMods-ComfyAutoRepair\1.0.0\icon.png
+- manifestVersion: 1
+  name: Azumatt-AzuCraftyBoxes
+  authorName: Azumatt
+  websiteUrl: https://thunderstore.io/c/valheim/p/Azumatt/AzuCraftyBoxes/
+  displayName: AzuCraftyBoxes
+  description: AzuCraftyBoxes is a Valheim mod that allows players to access and
+    use resources from nearby containers when crafting and building, based on a
+    configurable range and item restrictions. Restrictions are controlled by the
+    yaml file Azumatt.AzuCraftyBoxes.yml
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1731595905557
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.2202
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 5
+    patch: 6
+  enabled: true
+  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\valheim-list\BepInEx\plugins\Azumatt-AzuCraftyBoxes\icon.png
+- manifestVersion: 1
+  name: Digitalroot-Digitalroots_Slope_Combat_Assistance
+  authorName: Digitalroot
+  websiteUrl: https://thunderstore.io/c/valheim/p/Digitalroot/Digitalroots_Slope_Combat_Assistance/
+  displayName: Digitalroots_Slope_Combat_Assistance
+  description: Digitalroot's take on the Slope Combat Fix mod. DoD compatible.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1731595905569
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.2202
+    - ValheimModding-Jotunn-2.20.0
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 2
+    minor: 0
+    patch: 26
+  enabled: true
+  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\valheim-list\BepInEx\plugins\Digitalroot-Digitalroots_Slope_Combat_Assistance\icon.png
+- manifestVersion: 1
+  name: bid-AutoFollowPath
+  authorName: bid
+  websiteUrl: https://thunderstore.io/c/valheim/p/bid/AutoFollowPath/
+  displayName: AutoFollowPath
+  description: No more pinkie pain! Player automatically follows path/road and
+    navigates through wilderness on autorun; auto sprint toggle.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1731595905620
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.2202
+    - ValheimModding-Jotunn-2.21.2
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 6
+    patch: 7
+  enabled: true
+  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\valheim-list\BepInEx\plugins\bid-AutoFollowPath\icon.png
+- manifestVersion: 1
+  name: Azumatt-ImFRIENDLY_DAMMIT
+  authorName: Azumatt
+  websiteUrl: https://thunderstore.io/c/valheim/p/Azumatt/ImFRIENDLY_DAMMIT/
+  displayName: ImFRIENDLY_DAMMIT
+  description: Tired of getting hit by your own ballista? Me fuckin too. Protects
+    tames as well. Enjoy.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1731595905633
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.2202
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 8
+  enabled: true
+  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\valheim-list\BepInEx\plugins\Azumatt-ImFRIENDLY_DAMMIT\icon.png
+- manifestVersion: 1
+  name: Azumatt-AzuAreaRepair
+  authorName: Azumatt
+  websiteUrl: https://thunderstore.io/c/valheim/p/Azumatt/AzuAreaRepair/
+  displayName: AzuAreaRepair
+  description: Repair pieces in a specified area around the player when using the
+    hammer to repair. Code pulled from OdinsQOL
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1731595905689
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.2202
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 5
+  enabled: true
+  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\valheim-list\BepInEx\plugins\Azumatt-AzuAreaRepair\icon.png
+- manifestVersion: 1
+  name: Azumatt-AAA_Crafting
+  authorName: Azumatt
+  websiteUrl: https://thunderstore.io/c/valheim/p/Azumatt/AAA_Crafting/
+  displayName: AAA_Crafting
+  description: AzuAnti-ArthriticCrafting. Gives you an input field to enter the
+    amount of items you want to craft, a search filter feature, and recipe
+    tracking. Not controller friendly.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1731595905705
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.2202
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 5
+    patch: 8
+  enabled: true
+  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\valheim-list\BepInEx\plugins\Azumatt-AAA_Crafting\icon.png
+- manifestVersion: 1
+  name: blacks7ar-WieldEquipmentWhileSwimming
+  authorName: blacks7ar
+  websiteUrl: https://thunderstore.io/c/valheim/p/blacks7ar/WieldEquipmentWhileSwimming/
+  displayName: WieldEquipmentWhileSwimming
+  description: A simple mod that lets you wield your equipments while
+    swimming/diving or in water (Configurable).
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1731595905737
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.2202
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 1
+  enabled: true
+  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\valheim-list\BepInEx\plugins\blacks7ar-WieldEquipmentWhileSwimming\icon.png
+- manifestVersion: 1
+  name: VentureValheim-Meadingful_Icons
+  authorName: VentureValheim
+  websiteUrl: https://thunderstore.io/c/valheim/p/VentureValheim/Meadingful_Icons/
+  displayName: Meadingful_Icons
+  description: Adds identifiers to the different mead base icons in the game.
+    Increases the maximum stack size of mead bases, configurable.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1731595905754
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.2202
+    - ValheimModding-Jotunn-2.21.1
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 2
+    patch: 0
+  enabled: true
+  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\valheim-list\BepInEx\plugins\VentureValheim-Meadingful_Icons\icon.png
+- manifestVersion: 1
+  name: RustyMods-Almanac
+  authorName: RustyMods
+  websiteUrl: https://thunderstore.io/c/valheim/p/RustyMods/Almanac/
+  displayName: Almanac
+  description: Achievements, Bounties, Treasure Hunt, Player Metrics, Leaderboard, Indexing
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1731595905771
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.2105
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 3
+    minor: 3
+    patch: 8
+  enabled: true
+  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\valheim-list\BepInEx\plugins\RustyMods-Almanac\icon.png
+- manifestVersion: 1
+  name: Azumatt-AsksvinImproved
+  authorName: Azumatt
+  websiteUrl: https://thunderstore.io/c/valheim/p/Azumatt/AsksvinImproved/
+  displayName: AsksvinImproved
+  description: Improves the tamed Asksvin a little. You can use their attacks
+    while riding them.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1731595905806
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.2202
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 11
+  enabled: true
+  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\valheim-list\BepInEx\plugins\Azumatt-AsksvinImproved\icon.png
+- manifestVersion: 1
+  name: ComfyMods-Pseudonym
+  authorName: ComfyMods
+  websiteUrl: https://thunderstore.io/c/valheim/p/ComfyMods/Pseudonym/
+  displayName: Pseudonym
+  description: Player customization editor.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1731595905823
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.2202
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 4
+    patch: 0
+  enabled: true
+  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\valheim-list\BepInEx\plugins\ComfyMods-Pseudonym\icon.png
+- manifestVersion: 1
+  name: OldManKatan-Tames_Follow
+  authorName: OldManKatan
+  websiteUrl: https://thunderstore.io/c/valheim/p/OldManKatan/Tames_Follow/
+  displayName: Tames_Follow
+  description: This is a very simple mod that makes any tamed animal follow
+    players or stay (like a wolf) when interacting with them (default e).
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1731595905841
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.2202
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 1
+  enabled: true
+  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\valheim-list\BepInEx\plugins\OldManKatan-Tames_Follow\icon.png
+- manifestVersion: 1
+  name: EardwulfDoesMods-Wardrobe
+  authorName: EardwulfDoesMods
+  websiteUrl: https://thunderstore.io/c/valheim/p/EardwulfDoesMods/Wardrobe/
+  displayName: Wardrobe
+  description: Swap your gear with that sexy armorstand over there.  You know you want to.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1731595905859
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.2202
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 3
+    patch: 0
+  enabled: true
+  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\valheim-list\BepInEx\plugins\EardwulfDoesMods-Wardrobe\icon.png
+- manifestVersion: 1
+  name: GetOffMyLawn-SilenceTameWolfCub
+  authorName: GetOffMyLawn
+  websiteUrl: https://thunderstore.io/c/valheim/p/GetOffMyLawn/SilenceTameWolfCub/
+  displayName: SilenceTameWolfCub
+  description: Inspired by Keezys_Better_Wolves. If tame cubs are detected within
+    30 meters, all wolf howls are silenced. This simultaneously permits domestic
+    peace and quiet, and allows adult tame wolves to follow you without
+    silencing nearby enemy wolves.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1731595905877
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.2202
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 1
+    patch: 0
+  enabled: true
+  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\valheim-list\BepInEx\plugins\GetOffMyLawn-SilenceTameWolfCub\icon.png
+- manifestVersion: 1
+  name: Azumatt-DeezMistyBalls
+  authorName: Azumatt
+  websiteUrl: https://thunderstore.io/c/valheim/p/Azumatt/DeezMistyBalls/
+  displayName: DeezMistyBalls
+  description: A mod that makes the Demister Wisp in the game have a configurable
+    range between 6 and 50. Default value range is 6.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1731595905993
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.2202
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 5
+  enabled: true
+  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\valheim-list\BepInEx\plugins\Azumatt-DeezMistyBalls\icon.png
+- manifestVersion: 1
+  name: JereKuusela-Item_Stand_All_Items
+  authorName: JereKuusela
+  websiteUrl: https://thunderstore.io/c/valheim/p/JereKuusela/Item_Stand_All_Items/
+  displayName: Item_Stand_All_Items
+  description: Allows putting any item on item stands and customize their
+    transformations. The config can be synced by installing on the server.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1731595906014
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.2202
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 21
+    patch: 0
+  enabled: true
+  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\valheim-list\BepInEx\plugins\JereKuusela-Item_Stand_All_Items\icon.png
+- manifestVersion: 1
+  name: VentureValheim-No_Grass
+  authorName: VentureValheim
+  websiteUrl: https://thunderstore.io/c/valheim/p/VentureValheim/No_Grass/
+  displayName: No_Grass
+  description: Adds back the option to select no grass in your game settings
+    vegetation slider.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1731595906035
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.2202
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 1
+    patch: 4
+  enabled: true
+  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\valheim-list\BepInEx\plugins\VentureValheim-No_Grass\icon.png
+- manifestVersion: 1
+  name: VentureValheim-Deluxe_Particles
+  authorName: VentureValheim
+  websiteUrl: https://thunderstore.io/c/valheim/p/VentureValheim/Deluxe_Particles/
+  displayName: Deluxe_Particles
+  description: Enlarges the particle effect on dropped items so you can see them better.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1731595906057
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.2202
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 1
+    patch: 2
+  enabled: true
+  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\valheim-list\BepInEx\plugins\VentureValheim-Deluxe_Particles\icon.png
+- manifestVersion: 1
+  name: Azumatt-MistBeGone
+  authorName: Azumatt
+  websiteUrl: https://thunderstore.io/c/valheim/p/Azumatt/MistBeGone/
+  displayName: MistBeGone
+  description: A simple plugin that removes the Mist from Mistlands. Globally.
+    Everywhere. It gives no fucks. Is destructive for anything that uses the
+    vanilla mist components to generate mist. Client Only.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1731595906080
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.2202
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 2
+  enabled: true
+  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\valheim-list\BepInEx\plugins\Azumatt-MistBeGone\icon.png
+- manifestVersion: 1
+  name: Azumatt-Official_BepInEx_ConfigurationManager
+  authorName: Azumatt
+  websiteUrl: https://thunderstore.io/c/valheim/p/Azumatt/Official_BepInEx_ConfigurationManager/
+  displayName: Official_BepInEx_ConfigurationManager
+  description: Mod to assist with configuration of BepInEx mods
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1731595906105
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.2202
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 18
+    minor: 3
+    patch: 0
+  enabled: true
+  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\valheim-list\BepInEx\plugins\Azumatt-Official_BepInEx_ConfigurationManager\icon.png
+- manifestVersion: 1
+  name: EardwulfDoesMods-YolkMe
+  authorName: EardwulfDoesMods
+  websiteUrl: https://thunderstore.io/c/valheim/p/EardwulfDoesMods/YolkMe/
+  displayName: YolkMe
+  description: Adds autoPickup to Chicken Eggs
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1731595906154
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.2200
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 0
+  enabled: true
+  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\valheim-list\BepInEx\plugins\EardwulfDoesMods-YolkMe\icon.png
+- manifestVersion: 1
+  name: RandyKnapp-ImprovedDvergerCirclet
+  authorName: RandyKnapp
+  websiteUrl: https://thunderstore.io/c/valheim/p/RandyKnapp/ImprovedDvergerCirclet/
+  displayName: ImprovedDvergerCirclet
+  description: Changes the color of the light emitted by the Dverger circlet to
+    white. Adds several beam width options, and a pool of radiance (point light)
+    option.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1731595906178
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.2200
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 7
+  enabled: true
+  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\valheim-list\BepInEx\plugins\RandyKnapp-ImprovedDvergerCirclet\icon.png
+- manifestVersion: 1
+  name: Goldenrevolver-Instantly_Destroy_Boats_And_Carts
+  authorName: Goldenrevolver
+  websiteUrl: https://thunderstore.io/c/valheim/p/Goldenrevolver/Instantly_Destroy_Boats_And_Carts/
+  displayName: Instantly_Destroy_Boats_And_Carts
+  description: Allows you to instantly destroy a boat/ ship or cart with the
+    destroy function of the hammer
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1731595906202
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.2200
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 4
+  enabled: true
+  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\valheim-list\BepInEx\plugins\Goldenrevolver-Instantly_Destroy_Boats_And_Carts\icon.png
+- manifestVersion: 1
+  name: MSchmoecker-FenceSnap
+  authorName: MSchmoecker
+  websiteUrl: https://thunderstore.io/c/valheim/p/MSchmoecker/FenceSnap/
+  displayName: FenceSnap
+  description: Adds snappoints to fences and sharp stakes
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1731595906277
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.2102
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 3
+    patch: 0
+  enabled: true
+  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\valheim-list\BepInEx\plugins\MSchmoecker-FenceSnap\icon.png
+- manifestVersion: 1
+  name: ComfyMods-DumpsterFire
+  authorName: ComfyMods
+  websiteUrl: https://thunderstore.io/c/valheim/p/ComfyMods/DumpsterFire/
+  displayName: DumpsterFire
+  description: Why use the trash, when you can use a dumpster fire.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1731595906328
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 0
+  enabled: true
+  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\valheim-list\BepInEx\plugins\ComfyMods-DumpsterFire\icon.png
