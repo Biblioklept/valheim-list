@@ -8,7 +8,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1731531049580
+  installedAtTime: 1731536140247
   loaders: []
   dependencies: []
   incompatibilities: []
@@ -18,7 +18,7 @@
     minor: 0
     patch: 3
   enabled: true
-  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\Default\BepInEx\plugins\coemt-UnarmedTweaks\icon.png
+  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\_profile_update\BepInEx\plugins\coemt-UnarmedTweaks\icon.png
 - manifestVersion: 1
   name: Revel-StaminaSense
   authorName: Revel
@@ -29,7 +29,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1731531078391
+  installedAtTime: 1731536140253
   loaders: []
   dependencies: []
   incompatibilities: []
@@ -39,7 +39,7 @@
     minor: 0
     patch: 0
   enabled: true
-  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\Default\BepInEx\plugins\Revel-StaminaSense\icon.png
+  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\_profile_update\BepInEx\plugins\Revel-StaminaSense\icon.png
 - manifestVersion: 1
   name: denikson-BepInExPack_Valheim
   authorName: denikson
@@ -50,7 +50,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1731531349225
+  installedAtTime: 1731536140266
   loaders: []
   dependencies: []
   incompatibilities: []
@@ -71,7 +71,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1731531349289
+  installedAtTime: 1731536140280
   loaders: []
   dependencies:
     - denikson-BepInExPack_Valheim-5.4.1501
@@ -82,7 +82,7 @@
     minor: 9
     patch: 8
   enabled: true
-  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\Default\BepInEx\plugins\ishid4-BetterArchery\icon.png
+  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\_profile_update\BepInEx\plugins\ishid4-BetterArchery\icon.png
 - manifestVersion: 1
   name: ValheimModding-Jotunn
   authorName: ValheimModding
@@ -96,7 +96,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1731531503624
+  installedAtTime: 1731536140298
   loaders: []
   dependencies:
     - denikson-BepInExPack_Valheim-5.4.2202
@@ -107,7 +107,7 @@
     minor: 21
     patch: 3
   enabled: true
-  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\Default\BepInEx\plugins\ValheimModding-Jotunn\icon.png
+  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\_profile_update\BepInEx\plugins\ValheimModding-Jotunn\icon.png
 - manifestVersion: 1
   name: MSchmoecker-MultiUserChest
   authorName: MSchmoecker
@@ -118,7 +118,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1731531503701
+  installedAtTime: 1731536140312
   loaders: []
   dependencies:
     - denikson-BepInExPack_Valheim-5.4.2202
@@ -130,7 +130,7 @@
     minor: 6
     patch: 0
   enabled: true
-  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\Default\BepInEx\plugins\MSchmoecker-MultiUserChest\icon.png
+  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\_profile_update\BepInEx\plugins\MSchmoecker-MultiUserChest\icon.png
 - manifestVersion: 1
   name: castix-FloatingItems
   authorName: castix
@@ -141,7 +141,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1731531529502
+  installedAtTime: 1731536140325
   loaders: []
   dependencies:
     - denikson-BepInExPack_Valheim-5.4.600
@@ -152,7 +152,7 @@
     minor: 0
     patch: 0
   enabled: true
-  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\Default\BepInEx\plugins\castix-FloatingItems\icon.png
+  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\_profile_update\BepInEx\plugins\castix-FloatingItems\icon.png
 - manifestVersion: 1
   name: nearbear-BiggerBoatMapExploreRadius
   authorName: nearbear
@@ -164,7 +164,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1731531663995
+  installedAtTime: 1731536140338
   loaders: []
   dependencies:
     - denikson-BepInExPack_Valheim-5.4.800
@@ -175,7 +175,7 @@
     minor: 0
     patch: 3
   enabled: true
-  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\Default\BepInEx\plugins\nearbear-BiggerBoatMapExploreRadius\icon.png
+  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\_profile_update\BepInEx\plugins\nearbear-BiggerBoatMapExploreRadius\icon.png
 - manifestVersion: 1
   name: MaGic-Quick_Deposit
   authorName: MaGic
@@ -186,7 +186,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1731531692985
+  installedAtTime: 1731536140352
   loaders: []
   dependencies:
     - denikson-BepInExPack_Valheim-5.4.601
@@ -197,7 +197,7 @@
     minor: 0
     patch: 1
   enabled: true
-  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\Default\BepInEx\plugins\MaGic-Quick_Deposit\icon.png
+  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\_profile_update\BepInEx\plugins\MaGic-Quick_Deposit\icon.png
 - manifestVersion: 1
   name: Mydayyy-ServerSideMap
   authorName: Mydayyy
@@ -208,7 +208,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1731531700261
+  installedAtTime: 1731536140385
   loaders: []
   dependencies:
     - denikson-BepInExPack_Valheim-5.4.2200
@@ -219,7 +219,7 @@
     minor: 3
     patch: 11
   enabled: true
-  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\Default\BepInEx\plugins\Mydayyy-ServerSideMap\icon.png
+  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\_profile_update\BepInEx\plugins\Mydayyy-ServerSideMap\icon.png
 - manifestVersion: 1
   name: Smoothbrain-SmoothSave
   authorName: Smoothbrain
@@ -230,7 +230,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1731531732352
+  installedAtTime: 1731536140399
   loaders: []
   dependencies:
     - denikson-BepInExPack_Valheim-5.4.2202
@@ -241,7 +241,7 @@
     minor: 0
     patch: 5
   enabled: true
-  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\Default\BepInEx\plugins\Smoothbrain-SmoothSave\icon.png
+  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\_profile_update\BepInEx\plugins\Smoothbrain-SmoothSave\icon.png
 - manifestVersion: 1
   name: SarcenNexusMods-FarmGrid
   authorName: SarcenNexusMods
@@ -254,7 +254,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1731531741954
+  installedAtTime: 1731536140415
   loaders: []
   dependencies:
     - denikson-BepInExPack_Valheim-5.4.800
@@ -265,7 +265,7 @@
     minor: 5
     patch: 0
   enabled: true
-  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\Default\BepInEx\plugins\SarcenNexusMods-FarmGrid\icon.png
+  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\_profile_update\BepInEx\plugins\SarcenNexusMods-FarmGrid\icon.png
 - manifestVersion: 1
   name: Azumatt-AzuHoverStats
   authorName: Azumatt
@@ -277,7 +277,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1731531759127
+  installedAtTime: 1731536140431
   loaders: []
   dependencies:
     - denikson-BepInExPack_Valheim-5.4.2202
@@ -288,7 +288,7 @@
     minor: 1
     patch: 8
   enabled: true
-  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\Default\BepInEx\plugins\Azumatt-AzuHoverStats\icon.png
+  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\_profile_update\BepInEx\plugins\Azumatt-AzuHoverStats\icon.png
 - manifestVersion: 1
   name: GemHunter1-FastTeleport
   authorName: GemHunter1
@@ -300,7 +300,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1731531768489
+  installedAtTime: 1731536140446
   loaders: []
   dependencies:
     - denikson-BepInExPack_Valheim-5.4.1900
@@ -311,7 +311,7 @@
     minor: 1
     patch: 0
   enabled: true
-  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\Default\BepInEx\plugins\GemHunter1-FastTeleport\icon.png
+  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\_profile_update\BepInEx\plugins\GemHunter1-FastTeleport\icon.png
 - manifestVersion: 1
   name: ComfyMods-ComfyAutoRepair
   authorName: ComfyMods
@@ -322,7 +322,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1731533161838
+  installedAtTime: 1731536140462
   loaders: []
   dependencies:
     - denikson-BepInExPack_Valheim-5.4.2202
@@ -333,4 +333,4 @@
     minor: 0
     patch: 0
   enabled: true
-  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\Default\BepInEx\plugins\ComfyMods-ComfyAutoRepair\icon.png
+  icon: C:\Users\Biblioklept\AppData\Roaming\r2modmanPlus-local\Valheim\cache\ComfyMods-ComfyAutoRepair\1.0.0\icon.png
